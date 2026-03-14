@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+}
+
+.calculator {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+.search {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+
+.case-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px,2fr));
+    gap: 15px;
+}
+
+.case-card {
+    background: white;
+    padding: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+}
+
+.summary {
+    margin-top: 20px;
+    background: white;
+    padding: 20px;
+}
+
+.addons label {
+    display: block;
+    margin: 10px 0;
+}

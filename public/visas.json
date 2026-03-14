@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1,
+        "name": "H1-B Specialty Occupation",
+        "uscisFee": 460,
+        "attorneyFee": 2000,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 2,
+        "name": "L-1 Intracompany Transfer",
+        "uscisFee": 460,
+        "attorneyFee": 2500,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 3,
+        "name": "O-1 Extraordinary Ability",
+        "uscisFee": 460,
+        "attorneyFee": 3500,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 4,
+        "name": "EB-1 Priority Worker",
+        "uscisFee": 700,
+        "attorneyFee": 4000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 5,
+        "name": "EB-2 Advanced Degree",
+        "uscisFee": 700,
+        "attorneyFee": 3800,
+        "processingTime": "6-10 months"
+    },
+    {
+        "id": 6,
+        "name": "EB-3 Skilled Worker",
+        "uscisFee": 700,
+        "attorneyFee": 3500,
+        "processingTime": "8-14 months"
+    },
+    {
+        "id": 7,
+        "name": "EB-4 Special Immigrant",
+        "uscisFee": 700,
+        "attorneyFee": 3200,
+        "processingTime": "7-12 months"
+    },
+    {
+        "id": 8,
+        "name": "EB-5 Investor Visa",
+        "uscisFee": 3675,
+        "attorneyFee": 15000,
+        "processingTime": "24-36 months"
+    },
+    {
+        "id": 9,
+        "name": "E-2 Treaty Investor",
+        "uscisFee": 460,
+        "attorneyFee": 5000,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 10,
+        "name": "E-1 Treaty Trader",
+        "uscisFee": 460,
+        "attorneyFee": 4800,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 11,
+        "name": "TN NAFTA Professional",
+        "uscisFee": 460,
+        "attorneyFee": 1500,
+        "processingTime": "2-4 weeks"
+    },
+    {
+        "id": 12,
+        "name": "F-1 Student Visa",
+        "uscisFee": 350,
+        "attorneyFee": 1200,
+        "processingTime": "1-4 months"
+    },
+    {
+        "id": 13,
+        "name": "J-1 Exchange Visitor",
+        "uscisFee": 350,
+        "attorneyFee": 1000,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 14,
+        "name": "M-1 Vocational Student",
+        "uscisFee": 350,
+        "attorneyFee": 1000,
+        "processingTime": "1-4 months"
+    },
+    {
+        "id": 15,
+        "name": "B-1 Business Visitor",
+        "uscisFee": 160,
+        "attorneyFee": 500,
+        "processingTime": "2-6 weeks"
+    },
+    {
+        "id": 16,
+        "name": "B-2 Tourist Visa",
+        "uscisFee": 160,
+        "attorneyFee": 500,
+        "processingTime": "2-6 weeks"
+    },
+    {
+        "id": 17,
+        "name": "K-1 Fiance Visa",
+        "uscisFee": 535,
+        "attorneyFee": 2500,
+        "processingTime": "8-12 months"
+    },
+    {
+        "id": 18,
+        "name": "CR-1 Marriage Visa",
+        "uscisFee": 535,
+        "attorneyFee": 2800,
+        "processingTime": "10-16 months"
+    },
+    {
+        "id": 19,
+        "name": "IR-1 Spouse Visa",
+        "uscisFee": 535,
+        "attorneyFee": 2800,
+        "processingTime": "10-16 months"
+    },
+    {
+        "id": 20,
+        "name": "K-3 Spouse Visa",
+        "uscisFee": 535,
+        "attorneyFee": 2600,
+        "processingTime": "12-20 months"
+    },
+    {
+        "id": 21,
+        "name": "H-2A Agricultural Worker",
+        "uscisFee": 460,
+        "attorneyFee": 1800,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 22,
+        "name": "H-2B Seasonal Worker",
+        "uscisFee": 460,
+        "attorneyFee": 1800,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 23,
+        "name": "H-3 Trainee Visa",
+        "uscisFee": 460,
+        "attorneyFee": 1900,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 24,
+        "name": "L-2 Dependent Visa",
+        "uscisFee": 460,
+        "attorneyFee": 800,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 25,
+        "name": "H-4 Dependent Visa",
+        "uscisFee": 460,
+        "attorneyFee": 800,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 26,
+        "name": "F-2 Dependent Visa",
+        "uscisFee": 350,
+        "attorneyFee": 600,
+        "processingTime": "1-4 months"
+    },
+    {
+        "id": 27,
+        "name": "J-2 Dependent Visa",
+        "uscisFee": 350,
+        "attorneyFee": 600,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 28,
+        "name": "M-2 Dependent Visa",
+        "uscisFee": 350,
+        "attorneyFee": 600,
+        "processingTime": "1-4 months"
+    },
+    {
+        "id": 29,
+        "name": "O-2 Support Personnel",
+        "uscisFee": 460,
+        "attorneyFee": 2500,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 30,
+        "name": "P-1 Athlete/Entertainer",
+        "uscisFee": 460,
+        "attorneyFee": 2800,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 31,
+        "name": "P-2 Reciprocal Exchange",
+        "uscisFee": 460,
+        "attorneyFee": 2600,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 32,
+        "name": "P-3 Culturally Unique",
+        "uscisFee": 460,
+        "attorneyFee": 2600,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 33,
+        "name": "Q-1 Cultural Exchange",
+        "uscisFee": 460,
+        "attorneyFee": 1500,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 34,
+        "name": "R-1 Religious Worker",
+        "uscisFee": 460,
+        "attorneyFee": 2000,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 35,
+        "name": "NATO Visa",
+        "uscisFee": 0,
+        "attorneyFee": 1200,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 36,
+        "name": "Diplomatic Visa A-1",
+        "uscisFee": 0,
+        "attorneyFee": 1500,
+        "processingTime": "1-2 months"
+    },
+    {
+        "id": 37,
+        "name": "Government Official A-2",
+        "uscisFee": 0,
+        "attorneyFee": 1500,
+        "processingTime": "1-2 months"
+    },
+    {
+        "id": 38,
+        "name": "International Rep G-1",
+        "uscisFee": 0,
+        "attorneyFee": 1500,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 39,
+        "name": "Foreign Media I-Visa",
+        "uscisFee": 0,
+        "attorneyFee": 1800,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 40,
+        "name": "C-1 Transit Visa",
+        "uscisFee": 160,
+        "attorneyFee": 400,
+        "processingTime": "2-4 weeks"
+    },
+    {
+        "id": 41,
+        "name": "C-3 Foreign Official Transit",
+        "uscisFee": 0,
+        "attorneyFee": 400,
+        "processingTime": "2-4 weeks"
+    },
+    {
+        "id": 42,
+        "name": "D Crewmember Visa",
+        "uscisFee": 160,
+        "attorneyFee": 800,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 43,
+        "name": "A-3 Personal Employee",
+        "uscisFee": 0,
+        "attorneyFee": 1200,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 44,
+        "name": "G-5 Personal Employee",
+        "uscisFee": 0,
+        "attorneyFee": 1200,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 45,
+        "name": "N-8 Special Immigrant",
+        "uscisFee": 700,
+        "attorneyFee": 3000,
+        "processingTime": "8-14 months"
+    },
+    {
+        "id": 46,
+        "name": "N-9 Special Immigrant",
+        "uscisFee": 700,
+        "attorneyFee": 3000,
+        "processingTime": "8-14 months"
+    },
+    {
+        "id": 47,
+        "name": "S-5 Informant Visa",
+        "uscisFee": 460,
+        "attorneyFee": 5000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 48,
+        "name": "T-1 Trafficking Victim",
+        "uscisFee": 0,
+        "attorneyFee": 1000,
+        "processingTime": "8-16 months"
+    },
+    {
+        "id": 49,
+        "name": "U-1 Crime Victim",
+        "uscisFee": 0,
+        "attorneyFee": 1200,
+        "processingTime": "24-48 months"
+    },
+    {
+        "id": 50,
+        "name": "VAWA Self-Petition",
+        "uscisFee": 0,
+        "attorneyFee": 2500,
+        "processingTime": "18-30 months"
+    },
+    {
+        "id": 51,
+        "name": "SIJ Special Immigrant",
+        "uscisFee": 0,
+        "attorneyFee": 2200,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 52,
+        "name": "Asylum Application",
+        "uscisFee": 0,
+        "attorneyFee": 3500,
+        "processingTime": "6-24 months"
+    },
+    {
+        "id": 53,
+        "name": "Refugee Status",
+        "uscisFee": 0,
+        "attorneyFee": 3000,
+        "processingTime": "12-36 months"
+    },
+    {
+        "id": 54,
+        "name": "TPS Temporary Status",
+        "uscisFee": 50,
+        "attorneyFee": 800,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 55,
+        "name": "DACA Renewal",
+        "uscisFee": 495,
+        "attorneyFee": 500,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 56,
+        "name": "Advance Parole",
+        "uscisFee": 575,
+        "attorneyFee": 400,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 57,
+        "name": "Employment Authorization",
+        "uscisFee": 410,
+        "attorneyFee": 300,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 58,
+        "name": "I-130 Family Petition",
+        "uscisFee": 535,
+        "attorneyFee": 1200,
+        "processingTime": "9-24 months"
+    },
+    {
+        "id": 59,
+        "name": "I-129F Fiance Petition",
+        "uscisFee": 535,
+        "attorneyFee": 1500,
+        "processingTime": "6-10 months"
+    },
+    {
+        "id": 60,
+        "name": "I-140 Immigrant Petition",
+        "uscisFee": 700,
+        "attorneyFee": 2500,
+        "processingTime": "4-10 months"
+    },
+    {
+        "id": 61,
+        "name": "I-485 Adjustment Status",
+        "uscisFee": 1140,
+        "attorneyFee": 2000,
+        "processingTime": "8-20 months"
+    },
+    {
+        "id": 62,
+        "name": "N-400 Citizenship",
+        "uscisFee": 640,
+        "attorneyFee": 1000,
+        "processingTime": "6-14 months"
+    },
+    {
+        "id": 63,
+        "name": "N-600 Citizenship Cert",
+        "uscisFee": 1170,
+        "attorneyFee": 1200,
+        "processingTime": "8-15 months"
+    },
+    {
+        "id": 64,
+        "name": "I-751 Remove Conditions",
+        "uscisFee": 595,
+        "attorneyFee": 1500,
+        "processingTime": "12-24 months"
+    },
+    {
+        "id": 65,
+        "name": "I-90 Green Card Renewal",
+        "uscisFee": 455,
+        "attorneyFee": 400,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 66,
+        "name": "I-765 Work Permit",
+        "uscisFee": 410,
+        "attorneyFee": 300,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 67,
+        "name": "I-131 Travel Document",
+        "uscisFee": 575,
+        "attorneyFee": 400,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 68,
+        "name": "I-192 Reentry Permit",
+        "uscisFee": 585,
+        "attorneyFee": 600,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 69,
+        "name": "I-212 Permission to Reapply",
+        "uscisFee": 930,
+        "attorneyFee": 1800,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 70,
+        "name": "I-290B Motion to Reopen",
+        "uscisFee": 675,
+        "attorneyFee": 2000,
+        "processingTime": "3-12 months"
+    },
+    {
+        "id": 71,
+        "name": "I-601 Waiver",
+        "uscisFee": 930,
+        "attorneyFee": 3500,
+        "processingTime": "8-18 months"
+    },
+    {
+        "id": 72,
+        "name": "I-601A Provisional Waiver",
+        "uscisFee": 630,
+        "attorneyFee": 3000,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 73,
+        "name": "I-612 Waiver",
+        "uscisFee": 285,
+        "attorneyFee": 2000,
+        "processingTime": "3-8 months"
+    },
+    {
+        "id": 74,
+        "name": "I-824 Action on Approved App",
+        "uscisFee": 465,
+        "attorneyFee": 800,
+        "processingTime": "3-8 months"
+    },
+    {
+        "id": 75,
+        "name": "I-829 Investor Conditions Removal",
+        "uscisFee": 3750,
+        "attorneyFee": 5000,
+        "processingTime": "20-40 months"
+    },
+    {
+        "id": 76,
+        "name": "I-924 Regional Center",
+        "uscisFee": 17795,
+        "attorneyFee": 20000,
+        "processingTime": "12-24 months"
+    },
+    {
+        "id": 77,
+        "name": "I-956F Investor Project",
+        "uscisFee": 4760,
+        "attorneyFee": 10000,
+        "processingTime": "10-20 months"
+    },
+    {
+        "id": 78,
+        "name": "E-2 Investor Treaty Country",
+        "uscisFee": 460,
+        "attorneyFee": 5000,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 79,
+        "name": "L-1 Blanket Petition",
+        "uscisFee": 460,
+        "attorneyFee": 3500,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 80,
+        "name": "H-1B Cap Exempt",
+        "uscisFee": 460,
+        "attorneyFee": 2200,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 81,
+        "name": "H-1B Amendment",
+        "uscisFee": 460,
+        "attorneyFee": 1500,
+        "processingTime": "2-6 months"
+    },
+    {
+        "id": 82,
+        "name": "H-1B Extension",
+        "uscisFee": 460,
+        "attorneyFee": 1800,
+        "processingTime": "3-7 months"
+    },
+    {
+        "id": 83,
+        "name": "L-1 Extension",
+        "uscisFee": 460,
+        "attorneyFee": 2000,
+        "processingTime": "2-6 months"
+    },
+    {
+        "id": 84,
+        "name": "O-1 Extension",
+        "uscisFee": 460,
+        "attorneyFee": 2800,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 85,
+        "name": "TN Renewal",
+        "uscisFee": 460,
+        "attorneyFee": 1200,
+        "processingTime": "2-4 weeks"
+    },
+    {
+        "id": 86,
+        "name": "E-2 Renewal",
+        "uscisFee": 460,
+        "attorneyFee": 3500,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 87,
+        "name": "I-129 Petition Nonimmigrant",
+        "uscisFee": 460,
+        "attorneyFee": 2000,
+        "processingTime": "2-6 months"
+    },
+    {
+        "id": 88,
+        "name": "I-539 Extension of Stay",
+        "uscisFee": 370,
+        "attorneyFee": 800,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 89,
+        "name": "I-94 Extension",
+        "uscisFee": 0,
+        "attorneyFee": 400,
+        "processingTime": "2-4 weeks"
+    },
+    {
+        "id": 90,
+        "name": "Change of Status",
+        "uscisFee": 370,
+        "attorneyFee": 1500,
+        "processingTime": "4-10 months"
+    },
+    {
+        "id": 91,
+        "name": "Visa Revalidation",
+        "uscisFee": 0,
+        "attorneyFee": 500,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 92,
+        "name": "Consular Processing",
+        "uscisFee": 325,
+        "attorneyFee": 1800,
+        "processingTime": "3-8 months"
+    },
+    {
+        "id": 93,
+        "name": "DS-260 Application",
+        "uscisFee": 0,
+        "attorneyFee": 800,
+        "processingTime": "2-6 months"
+    },
+    {
+        "id": 94,
+        "name": "DS-160 Application",
+        "uscisFee": 0,
+        "attorneyFee": 400,
+        "processingTime": "2-8 weeks"
+    },
+    {
+        "id": 95,
+        "name": "DS-2019 Application",
+        "uscisFee": 0,
+        "attorneyFee": 600,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 96,
+        "name": "I-20 Application",
+        "uscisFee": 0,
+        "attorneyFee": 500,
+        "processingTime": "1-2 months"
+    },
+    {
+        "id": 97,
+        "name": "PERM Labor Certification",
+        "uscisFee": 0,
+        "attorneyFee": 3500,
+        "processingTime": "8-14 months"
+    },
+    {
+        "id": 98,
+        "name": "ETA-9089 Application",
+        "uscisFee": 0,
+        "attorneyFee": 2800,
+        "processingTime": "7-13 months"
+    },
+    {
+        "id": 99,
+        "name": "Prevailing Wage Request",
+        "uscisFee": 0,
+        "attorneyFee": 800,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 100,
+        "name": "Recruitment Report",
+        "uscisFee": 0,
+        "attorneyFee": 1500,
+        "processingTime": "2-3 months"
+    },
+    {
+        "id": 101,
+        "name": "EB-1A Extraordinary Ability",
+        "uscisFee": 700,
+        "attorneyFee": 5000,
+        "processingTime": "5-10 months"
+    },
+    {
+        "id": 102,
+        "name": "EB-1B Outstanding Professor",
+        "uscisFee": 700,
+        "attorneyFee": 4500,
+        "processingTime": "5-10 months"
+    },
+    {
+        "id": 103,
+        "name": "EB-1C Multinational Manager",
+        "uscisFee": 700,
+        "attorneyFee": 5000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 104,
+        "name": "EB-2 NIW National Interest",
+        "uscisFee": 700,
+        "attorneyFee": 5500,
+        "processingTime": "5-9 months"
+    },
+    {
+        "id": 105,
+        "name": "EB-3 Professional",
+        "uscisFee": 700,
+        "attorneyFee": 3800,
+        "processingTime": "8-14 months"
+    },
+    {
+        "id": 106,
+        "name": "EB-3 Other Worker",
+        "uscisFee": 700,
+        "attorneyFee": 3500,
+        "processingTime": "10-18 months"
+    },
+    {
+        "id": 107,
+        "name": "Schedule A Nursing",
+        "uscisFee": 700,
+        "attorneyFee": 4000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 108,
+        "name": "Schedule A Physiotherapist",
+        "uscisFee": 700,
+        "attorneyFee": 4000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 109,
+        "name": "H-1B1 Chile/Singapore",
+        "uscisFee": 460,
+        "attorneyFee": 2000,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 110,
+        "name": "E-3 Australian Professional",
+        "uscisFee": 460,
+        "attorneyFee": 2000,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 111,
+        "name": "H-1B2 DOD Researcher",
+        "uscisFee": 460,
+        "attorneyFee": 2200,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 112,
+        "name": "H-1B3 Fashion Model",
+        "uscisFee": 460,
+        "attorneyFee": 2200,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 113,
+        "name": "J-1 Physician",
+        "uscisFee": 350,
+        "attorneyFee": 2500,
+        "processingTime": "2-5 months"
+    },
+    {
+        "id": 114,
+        "name": "J-1 Research Scholar",
+        "uscisFee": 350,
+        "attorneyFee": 1800,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 115,
+        "name": "J-1 Professor",
+        "uscisFee": 350,
+        "attorneyFee": 1800,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 116,
+        "name": "J-1 Short-term Scholar",
+        "uscisFee": 350,
+        "attorneyFee": 1500,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 117,
+        "name": "J-1 Specialist",
+        "uscisFee": 350,
+        "attorneyFee": 1500,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 118,
+        "name": "J-1 Student Intern",
+        "uscisFee": 350,
+        "attorneyFee": 1600,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 119,
+        "name": "J-1 Summer Work Travel",
+        "uscisFee": 350,
+        "attorneyFee": 800,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 120,
+        "name": "J-1 Camp Counselor",
+        "uscisFee": 350,
+        "attorneyFee": 800,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 121,
+        "name": "J-1 Au Pair",
+        "uscisFee": 350,
+        "attorneyFee": 1000,
+        "processingTime": "1-3 months"
+    },
+    {
+        "id": 122,
+        "name": "J-1 Trainee",
+        "uscisFee": 350,
+        "attorneyFee": 1500,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 123,
+        "name": "J-1 Intern",
+        "uscisFee": 350,
+        "attorneyFee": 1500,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 124,
+        "name": "Q-2 Irish Intern",
+        "uscisFee": 460,
+        "attorneyFee": 1600,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 125,
+        "name": "F-1 OPT",
+        "uscisFee": 410,
+        "attorneyFee": 500,
+        "processingTime": "3-5 months"
+    },
+    {
+        "id": 126,
+        "name": "F-1 STEM OPT",
+        "uscisFee": 410,
+        "attorneyFee": 600,
+        "processingTime": "3-5 months"
+    },
+    {
+        "id": 127,
+        "name": "F-1 CPT",
+        "uscisFee": 0,
+        "attorneyFee": 400,
+        "processingTime": "2-4 weeks"
+    },
+    {
+        "id": 128,
+        "name": "F-1 Reinstatement",
+        "uscisFee": 370,
+        "attorneyFee": 1500,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 129,
+        "name": "M-1 Practical Training",
+        "uscisFee": 410,
+        "attorneyFee": 600,
+        "processingTime": "3-5 months"
+    },
+    {
+        "id": 130,
+        "name": "B-1 in Lieu of H-1B",
+        "uscisFee": 160,
+        "attorneyFee": 800,
+        "processingTime": "2-6 weeks"
+    },
+    {
+        "id": 131,
+        "name": "B-1 Domestic Employee",
+        "uscisFee": 160,
+        "attorneyFee": 1000,
+        "processingTime": "2-6 weeks"
+    },
+    {
+        "id": 132,
+        "name": "WT/WB Visa Waiver",
+        "uscisFee": 0,
+        "attorneyFee": 300,
+        "processingTime": "1-2 weeks"
+    },
+    {
+        "id": 133,
+        "name": "ESTA Authorization",
+        "uscisFee": 14,
+        "attorneyFee": 100,
+        "processingTime": "1-3 days"
+    },
+    {
+        "id": 134,
+        "name": "Canadian NEXUS",
+        "uscisFee": 50,
+        "attorneyFee": 200,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 135,
+        "name": "SENTRI Program",
+        "uscisFee": 122,
+        "attorneyFee": 300,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 136,
+        "name": "Global Entry",
+        "uscisFee": 100,
+        "attorneyFee": 200,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 137,
+        "name": "FAST Program",
+        "uscisFee": 50,
+        "attorneyFee": 200,
+        "processingTime": "3-6 months"
+    },
+    {
+        "id": 138,
+        "name": "Visa Waiver Program",
+        "uscisFee": 0,
+        "attorneyFee": 200,
+        "processingTime": "1-2 weeks"
+    },
+    {
+        "id": 139,
+        "name": "Humanitarian Parole",
+        "uscisFee": 575,
+        "attorneyFee": 2000,
+        "processingTime": "4-8 months"
+    },
+    {
+        "id": 140,
+        "name": "Significant Public Benefit Parole",
+        "uscisFee": 575,
+        "attorneyFee": 2500,
+        "processingTime": "5-10 months"
+    },
+    {
+        "id": 141,
+        "name": "Military Parole",
+        "uscisFee": 0,
+        "attorneyFee": 0,
+        "processingTime": "2-4 months"
+    },
+    {
+        "id": 142,
+        "name": "Cuban Family Parole",
+        "uscisFee": 0,
+        "attorneyFee": 1000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 143,
+        "name": "Haitian Family Parole",
+        "uscisFee": 0,
+        "attorneyFee": 1000,
+        "processingTime": "6-12 months"
+    },
+    {
+        "id": 144,
+        "name": "Nicaraguan Adjustment",
+        "uscisFee": 0,
+        "attorneyFee": 1800,
+        "processingTime": "12-24 months"
+    },
+    {
+        "id": 145,
+        "name": "HRIFA Haitian Refugee",
+        "uscisFee": 0,
+        "attorneyFee": 1800,
+        "processingTime": "12-24 months"
+    },
+    {
+        "id": 146,
+        "name": "LIFE Act Benefits",
+        "uscisFee": 0,
+        "attorneyFee": 2500,
+        "processingTime": "18-30 months"
+    },
+    {
+        "id": 147,
+        "name": "245(i) Adjustment",
+        "uscisFee": 1000,
+        "attorneyFee": 2800,
+        "processingTime": "12-24 months"
+    },
+    {
+        "id": 148,
+        "name": "NACARA Benefits",
+        "uscisFee": 0,
+        "attorneyFee": 2500,
+        "processingTime": "18-36 months"
+    },
+    {
+        "id": 149,
+        "name": "ABC Class Member",
+        "uscisFee": 0,
+        "attorneyFee": 2000,
+        "processingTime": "12-24 months"
+    },
+    {
+        "id": 150,
+        "name": "Cuban Adjustment Act",
+        "uscisFee": 0,
+        "attorneyFee": 1500,
+        "processingTime": "8-16 months"
+    }
+]
